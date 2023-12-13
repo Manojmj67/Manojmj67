@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Manojmj67
+- 👀 I’m interested in Cybersecurity and front-end development ...
+- 🌱 I’m currently learning Penetration Testing and Network Security ...
+- 📫 How to reach me manoj67.manuu@gmail.com ...
+
+<!---
+Manojmj67/Manojmj67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
